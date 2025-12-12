@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilgoswami0901&label=Profile%20views&color=0e75b6&style=flat" alt="sahilgoswami0901" /> </p>
 
-- 🔭 I’m currently working on **Shopify: E-commerce website**
+- 🔭 I’m currently working in **IndiaMART**
 
-- 🌱 I’m currently learning **Django, MySQL**
+- 🌱 I’m currently learning **Python, FastAPI**
 
-- 💬 Ask me about **C++, Java**
+- 💬 Ask me about **C++, Google Cloud Run**
 
-- 📫 How to reach me **sahil.goswami0901@gmail.com**
+- 📫 How to reach me **sahil.goswami09012003@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
